@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>List Province</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+    </tr>
+    <tr th:each="province: ${provinces}">
+        <td th:text="${province.id}"></td>
+        <td th:text="${province.name}"></td>
+    </tr>
+</table>
+</body>
+</html>

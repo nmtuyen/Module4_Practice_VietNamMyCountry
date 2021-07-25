@@ -1,0 +1,34 @@
+com/codegym/service/province/IProvinceService.java
+ com.codegym.service.province.IProvinceService
+com/codegym/model/TypesOfTourism.java
+ com.codegym.model.TypesOfTourism
+com/codegym/repository/ITypeOfTourismRepository.java
+ com.codegym.repository.ITypeOfTourismRepository
+com/codegym/service/province/ProvinceService.java
+ com.codegym.service.province.ProvinceService
+com/codegym/service/typesOfTourism/ITypesOfTourismService.java
+ com.codegym.service.typesOfTourism.ITypesOfTourismService
+com/codegym/model/Province.java
+ com.codegym.model.Province
+com/codegym/repository/ITouristAreaRepository.java
+ com.codegym.repository.ITouristAreaRepository
+com/codegym/service/typesOfTourism/TypesOfTourismService.java
+ com.codegym.service.typesOfTourism.TypesOfTourismService
+com/codegym/service/touristArea/ITouristAreaService.java
+ com.codegym.service.touristArea.ITouristAreaService
+com/codegym/model/TouristArea.java
+ com.codegym.model.TouristArea
+com/codegym/service/IGeneralService.java
+ com.codegym.service.IGeneralService
+com/codegym/service/touristArea/TouristAreaService.java
+ com.codegym.service.touristArea.TouristAreaService
+com/codegym/repository/IProvinceRepository.java
+ com.codegym.repository.IProvinceRepository
+com/codegym/controller/ProvinceController.java
+ com.codegym.controller.ProvinceController
+com/codegym/controller/TypesOfTourismController.java
+ com.codegym.controller.TypesOfTourismController
+com/codegym/appconfiguration/AppConfig.java
+ com.codegym.appconfiguration.AppConfig
+com/codegym/appconfiguration/AppInitializer.java
+ com.codegym.appconfiguration.AppInitializer
